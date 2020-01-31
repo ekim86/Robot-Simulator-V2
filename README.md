@@ -21,15 +21,15 @@ move("right") // moves robot to the right
 
 ### Store the commands
 
-Your task is to add functionality to the page such that when a user presses the arrow keys, that direction (i.e. `left`, `down`, `right`, or `up`) is added to a list of directions on the right side of the robot's grid. We've already provided you with a `ul` element with an id set to `moves-container` - you just have to add `li` elements to it containing the direction that was inputted.
+<!-- Your task is to add functionality to the page such that when a user presses the arrow keys, that direction (i.e. `left`, `down`, `right`, or `up`) is added to a list of directions on the right side of the robot's grid. We've already provided you with a `ul` element with an id set to `moves-container` - you just have to add `li` elements to it containing the direction that was inputted. -->
 
 ![](robot_simulator_storing_moves.gif)
 
 ### Move the robot
 
-The robot does **NOT** move until the user presses the `Move!` button. When this button is clicked, the direction at the top should be removed from the page and the robot should move in that direction. 
+<!-- The robot does **NOT** move until the user presses the `Move!` button. When this button is clicked, the direction at the top should be removed from the page and the robot should move in that direction. 
 
-Note: If the robot hits a wall, it will not move and you will instead see a `alert` saying "Clang! Hit a wall"
+Note: If the robot hits a wall, it will not move and you will instead see a `alert` saying "Clang! Hit a wall" -->
 
 ![](robot_simulator_moving.gif)
 
